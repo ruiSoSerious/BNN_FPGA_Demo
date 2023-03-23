@@ -11,7 +11,7 @@ The classification result will send to PC by UART or send to FPGA Board GPIO LED
 
 Load BitStrem File onto FPGA Board:
 
-https://user-images.githubusercontent.com/60055382/227241588-3f26e9ff-dfeb-49e3-8eb3-cf71d72cc1cf.MOV
+https://user-images.githubusercontent.com/60055382/227242191-71577a31-4722-45e4-bad2-72cf168d21c7.mp4
 
 Open UART Port to receive classification result:
 
