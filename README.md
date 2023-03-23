@@ -1,5 +1,6 @@
 # BNN_FPGA_Demo
-The project is created for CIFAR-10 image classification based on BNN (binary neural network) on AMD KC705 FPGA.
+The project is created for CIFAR-10 image classification based on BNN (binary neural network) on KC705 FPGA.
+It achieve an accuracy of 85.9%.
 
 The top block diagram is shown as below:
 
