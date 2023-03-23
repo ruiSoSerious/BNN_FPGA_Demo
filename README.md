@@ -8,3 +8,12 @@ The top block diagram is shown as below:
 The classification result will send to PC by UART or send to FPGA Board GPIO LEDs as shown below:
 
 <img width="1132" alt="image" src="https://user-images.githubusercontent.com/60055382/227190906-5d092bf7-1342-4d80-b795-231c618f2224.png">
+
+Load BitStrem File onto FPGA Board:
+
+https://user-images.githubusercontent.com/60055382/227241588-3f26e9ff-dfeb-49e3-8eb3-cf71d72cc1cf.MOV
+
+Open UART Port to receive classification result:
+
+https://user-images.githubusercontent.com/60055382/227241696-c738a180-a043-42d0-ad08-e7e0a558d34f.MOV
+
