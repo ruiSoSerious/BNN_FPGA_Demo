@@ -9,9 +9,9 @@ The classification result will send to PC by UART or send to FPGA Board GPIO LED
 
 <img width="1132" alt="image" src="https://user-images.githubusercontent.com/60055382/227190906-5d092bf7-1342-4d80-b795-231c618f2224.png">
 
-Load BitStrem File onto FPGA Board and 8 GPIO LEDs will showcase the classification result as no 7:
+Load BitStream File onto FPGA Board and 8 GPIO LEDs will showcase the classification result as no 7:
 
-https://user-images.githubusercontent.com/60055382/227480085-63a9c1b0-472f-481f-863c-6f4c87727185.mp4
+https://user-images.githubusercontent.com/60055382/227483128-90b889cc-0d37-466f-b048-ff489417f35a.mp4
 
 Open UART Port to receive classification result:
 
